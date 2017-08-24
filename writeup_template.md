@@ -88,6 +88,9 @@ The model used an adam optimizer, so the learning rate was not tuned manually.
 
 Training data was chosen to keep the vehicle driving on the road. I used a combination of center lane driving, recovering from the left and right sides of the road, usin the left and right camera data. 
 
+Following are some examples of our training data.
+[image2]: ![alt text](./2017_08_20_03_41_01_174.jpg "First training example")
+[image3]: ![alt text](./2017_08_20_03_41_29_851.jpg "Second training example")
 
 ####1. Solution Design Approach
 
